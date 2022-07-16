@@ -517,7 +517,7 @@ nav {
   color: #fff;
 }
 
-.download-btn {
+.contact-btn {
   background: linear-gradient(to bottom, #2E355F 10%, #2E355F 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
@@ -827,12 +827,12 @@ nav {
 /* End: Subscribe Section Styling */
 
 /* Download The App Section Styling */
-#download {
+#contact {
   text-align: center;
   padding: 100px;
 }
 
-#download * {
+#contact * {
   margin: 25px auto;
 }
 
@@ -1054,7 +1054,7 @@ nav {
   #testimonial .col {
     margin-bottom: 50px;
   }
-  #download {
+  #contact {
     padding: 50px 0;
   }
   #subscribe {
@@ -1235,7 +1235,7 @@ nav {
   #testimonial .col {
     margin-bottom: 50px;
   }
-  #download {
+  #contact {
     padding: 50px 0;
   }
   #subscribe {
