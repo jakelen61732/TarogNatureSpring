@@ -1,2 +1,2 @@
-# TarogNatureSpring
-Website for Tarog Nature Spring 
+# Rainbow VPN
+A simple landing webpage for Rainbow VPN
